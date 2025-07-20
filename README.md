@@ -1,10 +1,24 @@
-# automted-car-catalog-system
-🚗 Completed Car Catalog System Project in ServiceNow
+# Automated Car Catalog System 🚗
 
-Implemented user and group management for role-based access
-Created custom tables for catalog items and customer requests
-Defined roles to control access to catalog and workflow features
-Designed and configured workflows for item request and approval processes
-Built a user-friendly Service Portal for catalog browsing and request submission
-Organized car models into categorized listings for improved navigation
-Added all related files and documentation to the repository
+A ServiceNow project for managing a car catalog with user-friendly browsing, request submission, and role-based access.
+
+## Features
+
+- **Role-Based Access:** User & group management for secure access.
+- **Custom Tables:** Catalog items & customer requests.
+- **Defined Roles:** Control access to catalog and workflow features.
+- **Workflows:** Request and approval processes.
+- **Service Portal:** Easy catalog browsing and request submission.
+- **Organized Listings:** Categorized car models for navigation.
+- **Complete Files & Docs:** All relevant files and documentation included.
+
+## Screenshot
+
+![Service Portal](https://github.com/user-attachments/assets/830760b7-f69b-48c9-9f89-abf598b4c308)
+
+## Getting Started
+
+1. Clone the repository.
+2. Import files into your ServiceNow instance.
+3. Assign roles to users/groups as needed.
+4. Explore the Service Portal!
