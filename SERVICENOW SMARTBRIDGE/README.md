@@ -1,1 +1,0 @@
-# automted-car-catalog-system
