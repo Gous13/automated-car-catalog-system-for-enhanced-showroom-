@@ -22,3 +22,5 @@ A ServiceNow project for managing a car catalog with user-friendly browsing, req
 2. Import files into your ServiceNow instance.
 3. Assign roles to users/groups as needed.
 4. Explore the Service Portal!
+
+Co-authored-by:S HARIPRASAD <hari210505@gmail.com>
